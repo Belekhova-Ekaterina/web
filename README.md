@@ -9,3 +9,5 @@
 ### 4. [Результаты Test Run](https://github.com/Belekhova-Ekaterina/web/blob/main/Test%20run%2019.05.2024.pdf)
 
 ### 5. [Отчет о дефектах](https://github.com/Belekhova-Ekaterina/web/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20%D0%BE%20%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D0%B0%D1%85.(web).xlsx)
+
+### 6. [Перехват трафика и изменение запросов с помощью Charles Proxy](https://drive.google.com/drive/folders/10IKNWv60CHuKL8sU01vCkL8QMgtsd9x5)
